@@ -1,0 +1,24 @@
+{
+  "name": "layout-designer-project-lvl1",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/demogi4523/layout-designer-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/demogi4523/layout-designer-project-lvl1/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demogi4523/layout-designer-project-lvl1.git"
+  },
+  "author": "demogi4523 <demogi4523@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demogi4523/layout-designer-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/demogi4523/layout-designer-project-lvl1#readme",
+  "devDependencies": {
+    "htmlhint": "^1.1.0",
+    "stylelint-config-standard": "^24.0.0",
+    "surge": "^0.23.1"
+  }
+}
